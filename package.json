@@ -1,6 +1,7 @@
 {
   "name": "ultima-hq-portal",
   "version": "9.0.0",
+  "homepage": "https://catherineYefi.github.io/Ultima_HQ_Methodology/",
   "description": "ULTIMA HQ Internal Methodological Portal",
   "main": "src/index.js",
   "scripts": {
